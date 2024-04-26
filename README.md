@@ -43,7 +43,7 @@ El desarrollo del sistema se realiza con las siguientes herramientas y tecnolog√
 - IntelliJ como IDE: Entorno de desarrollo integrado.
 - Postman: Herramienta para el testeo de los endpoints.
 
-## Despliegue en Heroku (CAIDO por finalizacion de free tier !)
+## Despliegue en Heroku (finalizado de free tier)
 
 El proyecto se encuentra desplegado en la plataforma Heroku, utilizando Heroku Postgres como base de datos en la nube. La URL base para acceder a la aplicaci√≥n es [https://trabajo-objetos.herokuapp.com](https://trabajo-objetos.herokuapp.com), y se pueden encontrar endpoints disponibles en esa URL base para interactuar con los recursos del sistema.
 
